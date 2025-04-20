@@ -3,6 +3,13 @@
   Futur ingénieur en cybersécurité | Passionné par les réseaux, l’IA & les systèmes complexes
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&color=2bbc8a" />
+  <img src="https://img.shields.io/badge/Code-Python-blue?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Network-Cisco-red?style=flat&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cybersecurity-Passion-orange?style=flat&logo=protonvpn&logoColor=white" />
+</p>
+
 ---
 
 ### À propos de moi
@@ -43,4 +50,4 @@ Ma vision ? Combiner la **sécurité réseau** et **l’apprentissage automatiqu
 ### Me contacter
 
 - [LinkedIn](https://www.linkedin.com/in/samakoun-kamissoko-a25248355)
-- Email : sk7706688@gmail.com
+- Email : samakoun[at]example.com
