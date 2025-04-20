@@ -50,4 +50,4 @@ Ma vision ? Combiner la **sécurité réseau** et **l’apprentissage automatiqu
 ### Me contacter
 
 - [LinkedIn](https://www.linkedin.com/in/samakoun-kamissoko-a25248355)
-- Email : samakoun[at]example.com
+- Email : sk7706688@gmail.com
