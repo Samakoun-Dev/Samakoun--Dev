@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="banner.png" alt="Samakoun Kamissoko Banner" style="width:100%; max-width:800px;">
+</p>
+
 <h1 align="center">Salut, je suis Samakoun Kamissoko</h1>
 <p align="center">
   Futur ingénieur en cybersécurité | Passionné par les réseaux, l’IA & les systèmes complexes
