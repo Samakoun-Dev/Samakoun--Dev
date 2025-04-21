@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.png" alt="Samakoun Kamissoko Banner" style="width:100%; max-width:800px;">
+  <img src="banner.png.png" alt="Samakoun Kamissoko Banner" style="width:100%; max-width:800px;">
 </p>
 
 <h1 align="center">Salut 👋, je suis Samakoun Kamissoko</h1>
@@ -27,7 +27,7 @@
 
 - 🧠 **Cybersécurité** : IDS, pare-feux, VPN, ethical hacking, gestion des vulnérabilités
 - 🌐 **Réseaux** : IPv4/IPv6, Cisco, routage statique/dynamique, Wireshark
-- 💻 **Programmation** : Python, Java, C
+- 💻 **Programmation** : Python, Java, C, C++, JEE
 - 🗃️ **Bases de données** : PostgreSQL, MongoDB
 - 🔧 **Outils** : Git, Linux (Ubuntu/Kali), Cisco Packet Tracer, VS Code, Docker (bases)
 
