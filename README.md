@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.png" alt="Samakoun Kamissoko Banner" style="width:100%; max-width:800px;">
+  <img src="![Uploading banner.png.png…]()" alt="Samakoun Kamissoko Banner" style="width:100%; max-width:800px;">
 </p>
 
 <h1 align="center">Salut, je suis Samakoun Kamissoko</h1>
