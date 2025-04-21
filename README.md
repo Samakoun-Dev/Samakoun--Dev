@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="banner.png.png" alt="Samakoun Kamissoko Banner" style="width:100%; max-width:800px;">
+  <img src="banner.png" alt="Samakoun Kamissoko Banner" style="width:100%; max-width:800px;">
 </p>
 
-<h1 align="center">Salut, je suis Samakoun Kamissoko</h1>
+<h1 align="center">Salut 👋, je suis Samakoun Kamissoko</h1>
 <p align="center">
   Futur ingénieur en cybersécurité | Passionné par les réseaux, l’IA & les systèmes complexes
 </p>
@@ -16,42 +16,53 @@
 
 ---
 
-### À propos de moi
+## 🔍 À propos de moi
 
-Je suis étudiant en informatique avec une forte appétence pour la **cybersécurité**, les **réseaux avancés** et l’**intelligence artificielle**.  
-Je prépare actuellement un **projet de fin d’études** sur la détection d'intrusions (IDS) à base d'IA.
-
-Ma vision ? Combiner la **sécurité réseau** et **l’apprentissage automatique** pour construire des systèmes plus sûrs, plus intelligents.
+🎓 Étudiant en informatique au Maroc, passionné par la **cybersécurité**, les **réseaux avancés** et l’**intelligence artificielle**.  
+💡 Mon objectif : Fusionner **sécurité réseau** et **IA** pour bâtir des systèmes robustes et intelligents.
 
 ---
 
-### Compétences techniques
+## 💼 Compétences techniques
 
-- **Réseaux :** IPv4/IPv6, Cisco, protocoles TCP/IP, routage statique et dynamique, sécurité réseau
-- **Cybersécurité :** IDS, pare-feux, VPN, chiffrement, gestion des vulnérabilités
-- **Programmation :** Python (IA, sécurité), Java (OOP), C (réseaux bas niveau)
-- **Bases de données :** PostgreSQL, MongoDB
-- **Outils :** Git, Linux (Ubuntu, Kali), Cisco Packet Tracer, Wireshark, Docker (bases), VS Code
-
----
-
-### Projets récents
-
-- **Détection d’intrusions par IA** – IDS intelligent basé sur des modèles de machine learning (en cours)
-- **Simulation de topologies IPv6** – Routage avancé sous Cisco Packet Tracer
-- **Analyse de trafic réseau avec Wireshark** – Étude de paquets, protocole DNS, TCP handshake
+- 🧠 **Cybersécurité** : IDS, pare-feux, VPN, ethical hacking, gestion des vulnérabilités
+- 🌐 **Réseaux** : IPv4/IPv6, Cisco, routage statique/dynamique, Wireshark
+- 💻 **Programmation** : Python, Java, C
+- 🗃️ **Bases de données** : PostgreSQL, MongoDB
+- 🔧 **Outils** : Git, Linux (Ubuntu/Kali), Cisco Packet Tracer, VS Code, Docker (bases)
 
 ---
 
-### Ce que je prépare
+## 🚀 Projets récents
 
-- Une formation certifiante en cybersécurité offensive (ethical hacking, pentesting)
-- Des projets open source dans l’analyse réseau automatisée
-- Une contribution à la communauté infosec francophone
+- 🔒 **IDS intelligent basé sur le machine learning** (PFE)
+- 🧭 **Simulation de topologies IPv6** sous Cisco Packet Tracer
+- 📊 **Analyse réseau avancée avec Wireshark**
+- 🔧 *Et bien d’autres sur mon GitHub*
 
 ---
 
-### Me contacter
+## 🛠️ En préparation
 
-- [LinkedIn](https://www.linkedin.com/in/samakoun-kamissoko-a25248355)
-- Email : sk7706688@gmail.com
+- 🎓 Formation en **cybersécurité offensive**
+- 💡 Projets open-source : automatisation d’analyses réseau
+- 💬 Contributions à la communauté **infosec francophone**
+
+---
+
+## 🌐 Me retrouver ailleurs
+
+- [🔗 LinkedIn](https://www.linkedin.com/in/samakoun-kamissoko-a25248355)
+- 📧 Email : sk7706688@gmail.com
+
+---
+
+## 💬 Citation favorite
+
+> *"Le savoir est une arme. Je suis ici pour en faire mon armure."* – S.K.
+
+---
+
+<p align="center">
+  🙏 Merci pour votre visite !
+</p>
